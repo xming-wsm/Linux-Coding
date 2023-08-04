@@ -13,5 +13,4 @@ Some code in Linux, juts for learning 0.0
 - A test of lazy git ...
 - qwiojdqwokdjqw;ldjqw;oidj
 
-
-
+- adjqalk;djq;ioldjqwiol;djqa;lkdja
